@@ -4,10 +4,10 @@
 I use this repo to track my involvement in various Web3 testnets and airdrops.
 
 ## Projects I've tested
-- CratD2C (Testnet)
+- Plaza (Testnet)
 - Peniwallet (early feedback)
-- [Other project names]
+- Union (Testnet)
 
 ## Wallet Addresses
-- EVM: 0x123...
-- Solana: Abc123...
+- EVM: 0x7Ff63cb07ea355842A6Ac26a3916bdB1095AaaF4
+
